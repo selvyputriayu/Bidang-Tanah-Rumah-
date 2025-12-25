@@ -1,0 +1,15 @@
+.tools button {
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+  border-radius: 6px;
+  border: none;
+  background: #1976d2;
+  color: white;
+  font-size: 14px;
+}
+
+#sisi {
+  font-size: 14px;
+  padding-left: 20px;
+}
